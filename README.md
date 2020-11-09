@@ -1,2 +1,2 @@
-# hilaW
+# Computer Vision Project
 schoolProject2
